@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Stage 1: Basic Calculator
 
 # Taking input
@@ -28,8 +28,3 @@ elif operator == "/":
 
 else:
     print("Invalid operator")
-
-print("Test")
-=======
-print("hello")
->>>>>>> 486db14 (Updated st
